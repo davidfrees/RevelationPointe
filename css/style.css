@@ -31,13 +31,40 @@ body {
 	text-align: center;
 }
 
-.joinbtn {
+.tagline {
 	text-align: center;
 	font-size: 3.1em;
 	font-family: 'Poppins', sans-serif;
 	font-variant: small-caps;
 	color: #FDFBFA;
-	padding-bottom: 40px;
+	padding-bottom: 35px;
+}
+
+.meetingTime {
+	text-align: center;
+	font-size: 2em;
+	font-family: 'Poppins', sans-serif;
+	font-variant: none;
+	color: #FDFBFA;
+	padding-bottom: 50px;
+}
+
+.meetingPlace {
+	text-align: center;
+	font-size: 1.3em;
+	font-family: 'EB Garamond', serif;
+	font-variant: none;
+	color: #FDFBFA;
+	padding-bottom: 0px;
+}
+
+.meetingAddress {
+	text-align: center;
+	font-size: 1.3em;
+	font-family: 'EB Garamond', serif;
+	font-variant: none;
+	color: #FDFBFA;
+	padding-bottom: 10px;
 }
 
 .headingA {
@@ -89,3 +116,41 @@ footer {
 	clear: both;
 	text-align: center;
 }
+
+.bkgdcolor {
+		background-color: #353a40;
+}
+
+.nav-links-footer {
+	display: flex;
+	list-style-type: none;
+}
+
+.values {
+	list-style-type: none;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.separation {
+	margin-right: auto;
+	margin-left: auto;
+	font-size: .75em;
+	font-family: 'Poppins', sans-serif;
+	color: #FDFBFA;
+}
+
+.fontstyle {
+	font-size: .9em;
+	font-family: 'Poppins', sans-serif;
+	color: #FDFBFA;
+}
+
+
